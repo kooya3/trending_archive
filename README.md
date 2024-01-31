@@ -12,3 +12,10 @@ The Trending Archive Repository collects and indexes data on trending repositori
 The repository is organized into yearly folders, starting from ``` 2014 ```. Each year folder contains monthly folders, which in turn contain daily folders. The daily folders correspond to the date when the trending repositories were captured. Within each daily folder, you will find a curated list of repositories that were trending on that particular day. Each repository entry includes information such as the repository name, description, programming language, number of stars, and the repository URL.
 
 ## Usage
+
+Feel free to explore the Trending Archive Repository and use the data for various purposes, such as:
+
+- Analyzing trends in programming languages, frameworks, and technologies.
+- Studying the growth and popularity of specific projects.
+- Identifying relevant repositories for research or learning purposes.
+- Building data visualizations or conducting data-driven analyses.
