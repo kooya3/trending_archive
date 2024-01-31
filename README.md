@@ -9,5 +9,5 @@ The Trending Archive Repository collects and indexes data on trending repositori
 
 ## Data Structure
 
-The repository is organized into yearly folders, starting from ``` 2014 ```. Each year folder contains monthly folders, which in turn contain daily folders. The daily folders correspond to the date when the trending repositories were captured.
+The repository is organized into yearly folders, starting from ``` 2014 ```. Each year folder contains monthly folders, which in turn contain daily folders. The daily folders correspond to the date when the trending repositories were captured. Within each daily folder, you will find a curated list of repositories that were trending on that particular day.
 
