@@ -19,3 +19,7 @@ Feel free to explore the Trending Archive Repository and use the data for variou
 - Studying the growth and popularity of specific projects.
 - Identifying relevant repositories for research or learning purposes.
 - Building data visualizations or conducting data-driven analyses.
+
+## Contributing
+
+We welcome contributions to the Trending Archive Repository! If you come across any issues with the data or have suggestions for improvement, please open an issue or submit a pull request. Together, we can make this repository an even more valuable resource for the developer community.
