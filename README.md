@@ -23,3 +23,7 @@ Feel free to explore the Trending Archive Repository and use the data for variou
 ## Contributing
 
 We welcome contributions to the Trending Archive Repository! If you come across any issues with the data or have suggestions for improvement, please open an issue or submit a pull request. Together, we can make this repository an even more valuable resource for the developer community.
+
+## Acknowledgments
+
+We would like to express our gratitude to the GitHub community for their continuous support and for making their repositories available for analysis. Without their contributions, this Trending Archive Repository would not have been possible.
